@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e28d8d</color>
+    <color name="colorPrimaryDark">#a97478</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorBackground">#8e3d88</color>
+    <color name="tabColorBackground">#a39a9b</color>
+
+    <color name="bottomtab_item_resting">#36000000</color>
+    <color name="bottomtab_item_disabled">#1e000000</color>
+
+    <color name="bottomtab_0">#ae5e60</color>
+    <color name="bottomtab_1">#0b7e6f</color>
+    <color name="bottomtab_2">#EA5C46</color>
+</resources>
